@@ -10,6 +10,8 @@ __pycache__/
 *.zip
 *.pkl
 *.pickle
+*.h5
+*.hdf5
 
 # Distribution / packaging
 .Python

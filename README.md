@@ -13,7 +13,8 @@
 
 - 챗봇에 주요 질문을 검색한 결과 화면
 
-![시현화면](Presentation/탄시리_시현.PNG)
+<img src="Presentation/탄시리_시연.PNG" width="200" height="400"/>
+<img src="Presentation/탄시리_시연영상.gif">
 
 ## Presentation 🙋
 

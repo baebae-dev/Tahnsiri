@@ -3,8 +3,6 @@
 
 - 'Tahnsiri' [제9회 투빅스 컨퍼런스](http://www.datamarket.kr/xe/index.php?mid=board_pdzw77&page=2&document_srl=63534)(2020.01.16)에서 진행한 상담 챗봇 프로젝트입니다.
 
-![발표 ppt]
-
 ## Description 📖
 
 - 본 프로젝트에서는 네이버 지식인, 다음 등 검색창의 데이터를 직접 수집하여, 장애인 상담 질문에 대한 답변 챗봇을 구현하였습니다.
@@ -19,8 +17,8 @@
 
 ## Presentation 🙋
 
-컨퍼런스 발표 자료입니다.
-![GoogleDrive](https://drive.google.com/file/d/10J3h0k6MF2T2SXyh2lUGeRAboJWPNlZH/view)
+컨퍼런스 발표 자료입니다.   
+[GoogleDrive](https://drive.google.com/file/d/10J3h0k6MF2T2SXyh2lUGeRAboJWPNlZH/view)
 
 ## Contributor 🧑‍🤝‍🧑
 

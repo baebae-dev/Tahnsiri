@@ -13,7 +13,7 @@
 
 - 챗봇에 주요 질문을 검색한 결과 화면
 
-👨🏻‍🏫 시연 화면                                   🎬 시연 영상
+👨🏻‍🏫 시연 화면&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🎬 시연 영상   
 <img src="Presentation/탄시리_시연.PNG" width="300" height="400"/> <img src="Presentation/탄시리_시연영상.gif" width="300" height="400">
 
 ## Presentation 🙋

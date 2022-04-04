@@ -3,7 +3,7 @@
 
 - 'Tahnsiri' [제9회 투빅스 컨퍼런스](http://www.datamarket.kr/xe/index.php?mid=board_pdzw77&page=2&document_srl=63534)(2020.01.16)에서 진행한 상담 챗봇 프로젝트입니다.
 
-![발표 ppt](https://user-images.githubusercontent.com/87759826/149263884-f381c26d-18b0-43ba-9bda-a338cec3e53b.jpg)
+![발표 ppt]
 
 ## Description 📖
 

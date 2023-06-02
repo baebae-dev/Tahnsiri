@@ -19,7 +19,7 @@
 ## Presentation 🙋
 
 컨퍼런스 발표 자료입니다.   
-[GoogleDrive](https://drive.google.com/file/d/10J3h0k6MF2T2SXyh2lUGeRAboJWPNlZH/view)
+[제9회 투빅스 컨퍼런스](http://www.datamarket.kr/xe/index.php?mid=board_pdzw77&page=2&document_srl=63534)
 
 ## Contributor 🧑‍🤝‍🧑
 
